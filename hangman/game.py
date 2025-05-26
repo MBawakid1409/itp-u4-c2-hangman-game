@@ -1,4 +1,4 @@
-from exceptions import *
+from .exceptions import *
 import random
 
 # Complete with your own, just for fun :)
